@@ -43,11 +43,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CeaserCipher.cs" />
+    <Compile Include="CommaQuibbling.cs" />
     <Compile Include="Currency.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseSentence.cs" />
     <Compile Include="ZipDemo.cs" />
   </ItemGroup>
   <ItemGroup>
