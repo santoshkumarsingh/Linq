@@ -42,10 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BeerLyrics.cs" />
     <Compile Include="CeaserCipher.cs" />
     <Compile Include="CommaQuibbling.cs" />
     <Compile Include="Currency.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="LineWrapping.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
