@@ -46,6 +46,8 @@
     <Compile Include="CeaserCipher.cs" />
     <Compile Include="CommaQuibbling.cs" />
     <Compile Include="Currency.cs" />
+    <Compile Include="DuplicateFiles.cs" />
+    <Compile Include="Euler.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="LineWrapping.cs" />
