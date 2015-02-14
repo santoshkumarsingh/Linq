@@ -49,6 +49,7 @@
     <Compile Include="DuplicateFiles.cs" />
     <Compile Include="Euler.cs" />
     <Compile Include="Extensions.cs" />
+    <Compile Include="Factorial.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="LineWrapping.cs" />
     <Compile Include="PrimeNumber.cs" />

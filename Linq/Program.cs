@@ -20,6 +20,7 @@ namespace Linq
             }
             DuplicateFiles.FindDuplicateFiles(@"C:\users\santosh\downloads");
             Console.WriteLine(ReverseSentence.Reverse("singh kumar santosh "));
+            Console.WriteLine(Factorial.FactorialLinq(4));
 
           
         }
